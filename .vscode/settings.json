@@ -1,0 +1,7 @@
+{
+  "rust-analyzer.linkedProjects": [
+    "./mpc-snarks/Cargo.toml",
+    "./mpc-snarks/Cargo.toml"
+  ],
+  "rust-analyzer.showUnlinkedFileNotification": false
+}
